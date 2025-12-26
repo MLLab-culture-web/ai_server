@@ -1,0 +1,11 @@
+fastapi==0.95.2
+uvicorn[standard]
+sqlalchemy
+pydantic~=1.10.0
+python-dotenv
+mysql-connector-python
+fastapi-admin==0.3.1
+aioredis==1.3.1
+tortoise-orm==0.19.3
+ollama
+requests
